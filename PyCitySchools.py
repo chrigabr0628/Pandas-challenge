@@ -1,3 +1,5 @@
+#PLEASE NOTE: I recieved code source from AskBCS, Xpert Learning Assitant, and tutors.
+
 #!/usr/bin/env python
 # coding: utf-8
 
