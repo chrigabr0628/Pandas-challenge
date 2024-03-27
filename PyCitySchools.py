@@ -273,7 +273,7 @@ math_scores_by_grade.index.name = None
 math_scores_by_grade 
 
 
-# Math Scores by Grade
+# Reading Scores by Grade
 
 # In[31]:
 
